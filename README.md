@@ -9,7 +9,7 @@ Airline Management System is a desktop-based application that allows a user to a
 
 ## 2. Tech Stack:
 
-- Java 11
+- Java 20
 
 - MySQL
 
@@ -24,7 +24,7 @@ Airline Management System is a desktop-based application that allows a user to a
 i. Clone the git repo
 
 ```
-https://github.com/AAdewunmi/Airline-Management-System.git
+ https://github.com/vikrant7204/Airline-Management-System.git
 ```
 
 ii. Open project folder
